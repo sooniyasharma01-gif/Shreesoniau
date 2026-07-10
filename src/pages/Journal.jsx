@@ -11,8 +11,8 @@ const posts = [
   {
     date: "March 2025",
     tag: "Travel",
-    title: "A Weekend in Melbourne",
-    excerpt: "Melbourne in early autumn is something else entirely. The light is different — softer, more golden. I spent a weekend wandering Fitzroy, eating pastries I didn't need, and remembering why slow travel is always the best kind.",
+    title: "A Weekend Away",
+    excerpt: "Early autumn somewhere new is something else entirely. The light is different — softer, more golden. I spent a weekend wandering quiet streets, eating pastries I didn't need, and remembering why slow travel is always the best kind.",
   },
   {
     date: "February 2025",
@@ -24,7 +24,7 @@ const posts = [
     date: "January 2025",
     tag: "Culture",
     title: "An Evening at the Opera",
-    excerpt: "I've always loved live performance — the way a story can hold an entire room in silence. Saw a stunning production at the Sydney Opera House recently. There's something about sharing that kind of experience with someone that makes it twice as memorable.",
+    excerpt: "I've always loved live performance — the way a story can hold an entire room in silence. Saw a stunning production recently. There's something about sharing that kind of experience with someone that makes it twice as memorable.",
   },
 ];
 

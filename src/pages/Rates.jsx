@@ -12,12 +12,12 @@ const rates = [
 ];
 
 const testimonials = [
-  { text: "Truly unforgettable. Worth every penny.", by: "J.M., Sydney" },
-  { text: "The most natural, effortless evening I've had in years.", by: "S.P., Melbourne" },
-  { text: "Elegant, warm, and completely genuine.", by: "R.A., Brisbane" },
+  { text: "Truly unforgettable. Worth every penny.", by: "J.M., Australia" },
+  { text: "The most natural, effortless evening I've had in years.", by: "S.P., Australia" },
+  { text: "Elegant, warm, and completely genuine.", by: "R.A., Australia" },
   { text: "Exceeded every expectation. Absolutely wonderful.", by: "D.K., Dubai" },
-  { text: "Impeccable discretion and stunning presence.", by: "M.R., Perth" },
-  { text: "Time just disappeared. Highly recommend.", by: "T.H., Adelaide" },
+  { text: "Impeccable discretion and stunning presence.", by: "M.R., Australia" },
+  { text: "Time just disappeared. Highly recommend.", by: "T.H., Australia" },
 ];
 
 function TestimonialTicker() {

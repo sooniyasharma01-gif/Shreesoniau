@@ -7,7 +7,7 @@ const wishes = [
   { emoji: "🕯️", category: "Home", items: ["Glasshouse Fragrances candle", "Aesop room spray", "Circa Home diffuser"] },
   { emoji: "👜", category: "Fashion", items: ["Silk scarf", "Cashmere wrap", "David Jones gift card"] },
   { emoji: "💆", category: "Wellness", items: ["Endota Spa voucher", "Facial treatment", "Aesop gift set"] },
-  { emoji: "📚", category: "Books & Culture", items: ["Art books", "Poetry collections", "Theatre tickets (Sydney/Melbourne)"] },
+  { emoji: "📚", category: "Books & Culture", items: ["Art books", "Poetry collections", "Theatre tickets"] },
 ];
 
 export default function Wishlist() {
