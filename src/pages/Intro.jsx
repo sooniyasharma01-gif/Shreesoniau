@@ -191,7 +191,7 @@ export default function Intro() {
           <h3 className="info-title">For The Imagination</h3>
           <div className="info-grid">
             <div className="info-cell"><label>Height</label>5'7 / 169 cm</div>
-            <div className="info-cell"><label>Age</label>Mid 20s</div>
+            <div className="info-cell"><label>Age</label>27 years</div>
             <div className="info-cell"><label>Hair</label>Dark Brown</div>
             <div className="info-cell"><label>Eyes</label>Dark Brown</div>
             <div className="info-cell"><label>Ethnicity</label>Indian</div>
